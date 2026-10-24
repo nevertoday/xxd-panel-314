@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-314
-description: "Create XXD Panel 314 raster artwork: a faithful photograph paired with one small memory-mark in the hand of an old picture book, chalky and sparse. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-314 or asks for this 记忆童印 style."
+description: "XXD Panel 314｜Childhood Memory Seal: keeps the photo and leaves one small memory mark of its subject, like a tiny illustration or keepsake stamp from an old picture book — soft rounded outlines, flat naive colour shapes and symbolic forms, optionally joined by a very few circles, stars, plants or lines that hint at a micro-story but never become a scene. Coloured pencil, chalky gouache, wax-pastel grain and screenprint texture with paper grain and slight print error; a limited muted palette of mist blue, grey green, warm ivory, cream, soft pink and low-saturation red with one brighter focus on the symbol; extreme whitespace and tiny notes like a collector's label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-314 or asks for a vintage picture-book memory mark, chalky naive emblem or nostalgic keepsake symbol from a photo."
 ---
 
 # XXD Panel 314

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 314｜Childhood Memory Seal: keeps the photo and leaves one small memory mark of its subject, like a tiny illustration or keepsake stamp from an old picture book — soft rounded outlines, flat naive colour shapes and symbolic forms, optionally joined by a very few circles, stars, plants or lines that hint at a micro-story but never become a scene. Coloured pencil, chalky gouache, wax-pastel grain and screenprint texture with paper grain and slight print error; a limited muted palette of mist blue, grey green, warm ivory, cream, soft pink and low-saturation red with one brighter focus on the symbol; extreme whitespace and tiny notes like a collector's label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-314 or asks for a vintage picture-book memory mark, chalky naive emblem or nostalgic keepsake symbol from a photo.",
+  "short_description": "记忆童印：把照片主体收成旧童书里一枚低饱和、粉笔颗粒的小小记忆印记",
+  "zh-CN": {
+    "name": "记忆童印",
+    "tagline": "保留原照片，把主体收成旧童书里留下来的一枚记忆小印。",
+    "look": "照片保持原样，设计部分只留一个小小的核心符号：轮廓柔和，平涂色块带一点稚拙，形状偏象征，不讲究真实比例。旁边可以有极少的圆点、星星、植物或短线，凑成一个微型小故事，但不会长成场景。用色铅笔、粉质水粉和蜡笔，表面有粉笔般的颗粒和轻微印刷误差。颜色安静、低饱和，雾蓝、灰绿、象牙白、奶油色、柔粉和暗红，符号上留一处较亮的地方让它浮出来。四周大片空白；文字只是几个碎片，像收藏标签上的小注。",
+    "traits": ["旧童书", "记忆标记", "粉笔颗粒", "小尺度", "极端留白"],
+    "good": [
+      "让人想起童年或某段回忆的东西：一棵老树、外婆家的门、一把小提琴、一只旧玩偶",
+      "带一点夜晚或自然意象的画面：月下的房子、草地上的小狗、窗台上的一盆花",
+      "想做成纪念卡、回忆相册小图或私人收藏章的照片"
+    ],
+    "poor": [
+      "鲜艳、热闹、强调能量感的照片：运动比赛、节日人潮、霓虹灯",
+      "需要真实比例或精确细节的照片：产品、证件照、建筑图",
+      "想要商业 Logo、矢量图标、卡通贴纸或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Childhood Memory Seal",
+    "tagline": "Keeps your photo and leaves the subject as one small memory mark from an old picture book.",
+    "look": "The photo stays as it is. The design keeps one small core symbol: soft outlines, flat colour shapes with a touch of naivety, symbolic forms and no concern for true proportion. A very few dots, stars, plants or short lines may join it to hint at a tiny story, but never grow into a scene. It is made with coloured pencil, chalky gouache and wax pastel, with a chalk-like grain and slight print errors. Colours are quiet and muted, such as mist blue, grey green, ivory, cream, soft pink and dusky red, with one brighter spot on the symbol so it lifts off the page. Wide empty space surrounds it; text is only a few fragments, like notes on a collector's label.",
+    "traits": ["Old picture book", "Memory mark", "Chalky grain", "Small scale", "Extreme whitespace"],
+    "good": [
+      "Things that bring back childhood or a particular memory: an old tree, grandma's front door, a violin, a worn doll",
+      "Scenes with a hint of night or nature: a house under the moon, a puppy on the grass, a flowerpot on a sill",
+      "Photos you want as a keepsake card, a small memory-album image or a private collector's stamp"
+    ],
+    "poor": [
+      "Bright, busy, high-energy photos: sports matches, festival crowds, neon lights",
+      "Photos that need true proportions or exact detail: products, ID photos, architectural drawings",
+      "Wanting a corporate logo, vector icon, cartoon sticker or 3D"
+    ]
+  },
+  "ja": {
+    "name": "幼い記憶の印",
+    "tagline": "写真はそのままに、主役を古い絵本に残された小さな記憶の印にします。",
+    "look": "写真はそのまま残し、デザイン側は小さな核となるシンボルをひとつだけ残します。輪郭は柔らかく、平塗りの色面には少し素朴さがあり、形は象徴的で、実際の比率にはこだわりません。ごく少しの点、星、植物、短い線を添えて小さな物語をほのめかすことはあっても、場面にはしません。色鉛筆、粉っぽいガッシュ、クレヨンで描き、チョークのような粒子とわずかな印刷のずれがあります。色は静かで彩度が低く、霧のような青、灰緑、アイボリー、クリーム、淡いピンク、くすんだ赤などで、シンボルの一か所だけを明るくして紙から浮かせます。周りは大きな余白で、文字はコレクションのラベルの小さな注記のような断片だけです。",
+    "traits": ["古い絵本", "記憶の印", "チョークの粒子", "小さなスケール", "極端な余白"],
+    "good": [
+      "子ども時代やある思い出を呼び起こすもの：古い木、祖母の家の戸口、バイオリン、古びた人形",
+      "夜や自然の気配がある場面：月の下の家、草の上の子犬、窓辺の鉢植え",
+      "記念カード、思い出アルバムの小さな絵、私的なコレクションの印にしたい写真"
+    ],
+    "poor": [
+      "鮮やかでにぎやか、勢いを見せたい写真：スポーツの試合、祭りの人混み、ネオン",
+      "実際の比率や正確な細部が必要な写真：商品、証明写真、建築図面",
+      "企業ロゴ、ベクターアイコン、キャラクターステッカー、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "어린 날의 기억 도장",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 옛 그림책에 남은 작은 기억의 도장으로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 작은 핵심 심벌 하나만 남깁니다. 윤곽은 부드럽고, 평면 색면에는 약간의 소박함이 있으며, 형태는 상징적이고 실제 비율에는 얽매이지 않습니다. 점, 별, 식물, 짧은 선을 아주 조금 곁들여 작은 이야기를 암시할 수는 있지만 장면으로 커지지는 않습니다. 색연필, 분필 같은 과슈, 크레용으로 그려 분필 같은 입자와 살짝 어긋난 인쇄가 보입니다. 색은 조용하고 채도가 낮아 안개 낀 파랑, 회녹색, 아이보리, 크림, 연분홍, 탁한 빨강을 쓰고, 심벌의 한 곳만 밝게 두어 종이 위로 떠오르게 합니다. 둘레는 넓게 비우고, 글자는 수집품 라벨의 작은 메모 같은 조각 몇 개뿐입니다.",
+    "traits": ["옛 그림책", "기억의 표식", "분필 입자", "작은 크기", "극단적 여백"],
+    "good": [
+      "어린 시절이나 특정한 추억을 떠올리게 하는 것: 오래된 나무, 할머니 댁 대문, 바이올린, 낡은 인형",
+      "밤이나 자연의 기운이 있는 장면: 달 아래 집, 풀밭 위 강아지, 창가의 화분",
+      "기념 카드, 추억 앨범 속 작은 그림, 개인 소장 도장으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "선명하고 북적이며 에너지가 강한 사진: 운동 경기, 축제 인파, 네온사인",
+      "실제 비율이나 정확한 세부가 필요한 사진: 제품, 증명사진, 건축 도면",
+      "기업 로고, 벡터 아이콘, 캐릭터 스티커, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ختم ذكريات الطفولة",
+    "tagline": "يحتفظ بصورتك ويترك عنصرها علامة ذكرى صغيرة كأنها من كتاب مصوّر قديم.",
+    "look": "تبقى الصورة كما هي، ولا يحتفظ التصميم إلا برمز جوهري صغير واحد: خطوط خارجية ناعمة، ومساحات لونية مسطحة فيها شيء من السذاجة، وأشكال رمزية لا تهتم بالنِّسب الحقيقية. قد ترافقه نقاط أو نجوم أو نباتات أو خطوط قصيرة قليلة جداً توحي بحكاية صغيرة، لكنها لا تصير مشهداً. يُنفَّذ بالأقلام الملوّنة والغواش الطباشيري وأقلام الشمع، مع حبيبات تشبه الطباشير وأخطاء طباعة طفيفة. الألوان هادئة خافتة، مثل الأزرق الضبابي والأخضر الرمادي والعاجي والكريمي والوردي الناعم والأحمر الباهت، مع موضع أفتح على الرمز يرفعه عن الصفحة. يحيط به فراغ واسع، والنص مجرد شذرات كملاحظات على بطاقة مقتنيات.",
+    "traits": ["كتاب مصوّر قديم", "علامة ذكرى", "حبيبات طباشيرية", "حجم صغير", "فراغ شديد"],
+    "good": [
+      "أشياء تعيد الطفولة أو ذكرى بعينها: شجرة قديمة، باب بيت الجدة، كمان، دمية بالية",
+      "مشاهد فيها لمسة من الليل أو الطبيعة: بيت تحت القمر، جرو على العشب، أصيص على حافة النافذة",
+      "صور تريدها بطاقة تذكارية أو رسماً صغيراً لألبوم ذكريات أو ختماً لمقتنيات خاصة"
+    ],
+    "poor": [
+      "صور زاهية مزدحمة مليئة بالطاقة: المباريات الرياضية، حشود المهرجانات، أضواء النيون",
+      "صور تحتاج إلى نِسب حقيقية أو تفاصيل دقيقة: المنتجات، صور الهوية، الرسوم المعمارية",
+      "الرغبة في شعار تجاري أو أيقونة متجهية أو ملصق كرتوني أو مجسّم ثلاثي الأبعاد"
+    ]
+  }
+}
